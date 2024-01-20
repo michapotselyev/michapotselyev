@@ -237,19 +237,19 @@
                             <td>
                                 <div>Sep 2020 - May 2024</div>
                                 <hr>
-                                <div>Bachelor's Degree - NTU "KHPI"<br>Kharkiv, Ukraine</div>
+                                <div><strong>Bachelor's Degree - NTU "KHPI"<br>Kharkiv, Ukraine</strong></div>
                             </td>
                             <td>
                                 <div>Sep 2019 - May 2020</div>
                                 <hr>
-                                <div>B2 level - Yellow English Submarine<br>Kharkiv, Ukraine</div>
+                                <div><strong>B2 level - Yellow English Submarine<br>Kharkiv, Ukraine</strong></div>
                             </td>
                         </tr>
                         <tr>
                             <td colspan="2">
                                 <div>Sep 2021 - May 2023</div>
                                 <hr>
-                                <div>Bachelor's Degree - Innovation Campus based on NTU "KHPI"<br>Kharkiv, Ukraine</div>
+                                <div><strong>Bachelor's Degree - Innovation Campus based on NTU "KHPI"<br>Kharkiv, Ukraine</strong></div>
                             </td>
                         </tr>
                     </table>
