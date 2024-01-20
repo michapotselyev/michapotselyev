@@ -101,13 +101,15 @@
                 <div>
                     <h2 id="profile">:bust_in_silhouette: Profile</h2>
                     <p>
-                          I am an experienced WEB Developer. I have experience developing on different stacks.
-                        Developing WEB Applications on React, Angular, Vue as front-end part and servers on Node.js,
-                        Nest.js as back-end part. Working with rxjs, express, router, cookies, hash, API, DOM, Redux,
-                        Persist, http|https etc, dotenv, bulid, git. Developing DataBase using MySQL DBMS, PostgreSQL
-                        DBMS, SQLite library, MongoDB and others. In total I have more than 3 years of development
-                        experience, know many technologies and libraries. I learn quickly and can solve the problem of
-                        any complexity
+                        I am an experienced WEB Developer. I have experience developing on<br>
+                        different stacks. Developing WEB Applications on React, Angular,<br>
+                        Vue as front-end part and servers on Node.js, Nest.js as back-end<br>
+                        part. Working with rxjs, express, router, cookies, hash, API, DOM,<br>
+                        Redux, Persist, http|https etc, dotenv, bulid, git. Developing<br>
+                        DataBase using MySQL DBMS, PostgreSQL DBMS, SQLite library, MongoDB<br>
+                        and others. In total I have more than 3 years of development<br>
+                        experience, know many technologies and libraries. I learn quickly<br>
+                        and can solve the problem of any complexity
                     </p>
                 </div>
                 <br>
@@ -123,22 +125,23 @@
                         </tr>
                         <tr>
                             <td colspan="2">
-                                :point_right: Working in teams on projects as Messenger app, Photoshop photo editing site, shop<br>
-                                sites, telegram bots and landing pages.
+                                :point_right: Working in teams on projects as Messenger app, Photoshop photo<br>
+                                editing site, shop sites, telegram bots and landing pages.
                             </td>
                         </tr>
                         <tr>
                             <td colspan="2">
-                                :point_right: Getting deep knowledge of JavaScript (React, Angular, Vue, Node, Nest), Python<br>
-                                (ﬂask, pytest, django, openai), WEB-Development, algoritmisation and data structure,<br>
-                                database structure (MySQL DBMS, PostgreSQL DBMS, SQLite library, MongoDB and<br>
-                                others) and complexity and clasiﬁcation of algorithms.
+                                :point_right: Getting deep knowledge of JavaScript (React, Angular, Vue, Node, Nest),<br>
+                                Python (ﬂask, pytest, django, openai), WEB-Development, algoritmisation<br>
+                                and data structure, database structure (MySQL DBMS, PostgreSQL DBMS,<br>
+                                SQLite library, MongoDB and others) and complexity and clasiﬁcation of<br>
+                                algorithms.
                             </td>
                         </tr>
                         <tr>
                             <td colspan="2">
-                                :point_right: Working with rxjs, express, router, cookies, hash, API, DOM, Redux, Persist, http|https<br>
-                                etc, dotenv, bulid, git.
+                                :point_right: Working with rxjs, express, router, cookies, hash, API, DOM, Redux,<br>
+                                Persist, http|https etc, dotenv, bulid, git.
                             </td>
                         </tr>
                         <tr><td colspan="2"></td></tr>
@@ -156,13 +159,14 @@
                         </tr>
                         <tr>
                             <td colspan="2">
-                                :point_right: Working with the cadastre API for land administration to manage farmers lands.
+                                :point_right: Working with the cadastre API for land administration to manage<br>
+                                farmers lands.
                             </td>
                         </tr>
                         <tr>
                             <td colspan="2">
-                                :point_right: Developing control system for watering, sowing and the degree of ripening of crops on<br>
-                                farmers' lands.
+                                :point_right: Developing control system for watering, sowing and the degree of<br>
+                                ripening of crops on farmers' lands.
                             </td>
                         </tr>
                         <tr><td colspan="2"></td></tr>
@@ -175,14 +179,14 @@
                         </tr>
                         <tr>
                             <td colspan="2">
-                                :point_right: Developing websites, telegram bots, software, applications and other IT products<br>
-                                on order.
+                                :point_right: Developing websites, telegram bots, software, applications and<br>
+                                other IT products on order.
                             </td>
                         </tr>
                         <tr>
                             <td colspan="2">
-                                :point_right: Upgrading knowleges in React, Angular, Vue, Node, Nest, MySQL DBMS, PostgreSQL<br>
-                                DBMS, SQLite library, MongoDB and others.
+                                :point_right: Upgrading knowleges in React, Angular, Vue, Node, Nest,<br>
+                                MySQL DBMS, PostgreSQL DBMS, SQLite library, MongoDB and others.
                             </td>
                         </tr>
                         <tr>
@@ -249,12 +253,12 @@
                 <div>
                     <h2>:wrench: Skills</h2>
                     <div>
-                        <p>:heavy_check_mark: JavaScript | React, Angular, Vue, Node.js, Nest.js, Express, Mongoose, Socket.IO, Vue.js, Next.js, React Native etc.</p>
+                        <p>:heavy_check_mark: JavaScript | React, Angular, Vue, Node.js, Nest.js, Express, Mongoose,<br>Socket.IO, Vue.js, Next.js, React Native etc.</p>
                         <p>:heavy_check_mark: Store | Redux, Redux-Saga, Persistence</p>
                         <p>:heavy_check_mark: Layouts | CSS3, HTML5, SCSS</p>
                         <p>:heavy_check_mark: UI | Material UI, Bootstrap, Tailwind</p>
                         <p>:heavy_check_mark: Git | Git, GitHub </p>
-                        <p>:heavy_check_mark: Database | MySQL, PostgreSQL, MongoDB, SQL, MSSQL, Azure Data Storage</p>
+                        <p>:heavy_check_mark: Database | MySQL, PostgreSQL, MongoDB, SQL, MSSQL, Azure Data<br>Storage</p>
                         <p>:heavy_check_mark: Other | API, Python, C/C++, WEB Development</p>
                     </div>
                 </div>
