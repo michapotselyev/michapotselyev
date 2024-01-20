@@ -1,17 +1,17 @@
 <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th></th>
-        <th></th>
-      </tr>
-    </thead>
     <tbody>
         <tr>
             <td>
-              <img src="./assets/" alt="Me" />
+                <table>
+                    <tr>
+                        <td>
+                            <img src="./assets/photo_2023-03-23_19-34-51.jpg" alt="Me" width="220" />
+                            <p align="center">Mykhailo Potseluiev</mark></p>
+                        </td>
+                    </tr>
+                </table>
             </td>
-            <td colspan="2">R2 Text A</td>
+            <td>R2 Text A</td>
         </tr>
     </tbody>
 </table>
