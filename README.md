@@ -97,7 +97,7 @@
                 <br>
                 <br>
                 <br>
-                <p align="center">:copyright: Mykhailo Potseluiev</p>
+                <p align="center">Mykhailo Potseluiev :copyright: 2024</p>
             </td>
             <td>
                 <h1 id="mykhailo-potseluiev" align="right">Mykhailo Potseluiev<br>Full-Stack | WEB Developer</h1>
