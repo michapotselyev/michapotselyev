@@ -92,6 +92,11 @@
                 <br>
                 <br>
                 <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
                 <p align="center">:copyright: Mykhailo Potseluiev</p>
             </td>
             <td>
