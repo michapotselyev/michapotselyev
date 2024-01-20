@@ -16,6 +16,8 @@
                 <p>:mailbox_with_mail: hividermen@gmail.com</p>
                 <p>:round_pushpin: Kyiv, Ukraine</p>
                 <h2 id="Social">Social</h2>
+                <img src="./assets/telegram.png" alt="telegram" />
+                <img src="./assets/linkedin.png" alt="linked" />
             </td>
             <td><img width="500"></td>
         </tr>
