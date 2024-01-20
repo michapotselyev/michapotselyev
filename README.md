@@ -40,6 +40,59 @@
                         <p>:art: Design</p>
                     </div>
                 </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <p align="center">:copyright: Mykhailo Potseluiev</p>
             </td>
             <td>
                 <h1 id="mykhailo-potseluiev" align="right">Mykhailo Potseluiev<br>Full-Stack | WEB Developer</h1>
@@ -57,6 +110,7 @@
                         any complexity
                     </p>
                 </div>
+                <br>
                 <div>
                     <h2 id="work-experience">:briefcase: Work Experience</h2>
                     <table>
@@ -76,17 +130,133 @@
                         <tr>
                             <td colspan="2">
                                 :point_right: Getting deep knowledge of JavaScript (React, Angular, Vue, Node, Nest), Python<br>
-                                (ﬂask, pytest, django, openai), WEB-Development, algoritmisation and data structure, database<br>
-                                structure (MySQL DBMS, PostgreSQL DBMS, SQLite library, MongoDB and others) and complexity and<br>
-                                clasiﬁcation of algorithms.
+                                (ﬂask, pytest, django, openai), WEB-Development, algoritmisation and data structure,<br>
+                                database structure (MySQL DBMS, PostgreSQL DBMS, SQLite library, MongoDB and<br>
+                                others) and complexity and clasiﬁcation of algorithms.
                             </td>
                         </tr>
                         <tr>
                             <td colspan="2">
-                                :point_right: Working in teams on projects as Messenger app, Photoshop photo editing site, shop<br>sites, telegram bots and landing pages.
+                                :point_right: Working with rxjs, express, router, cookies, hash, API, DOM, Redux, Persist, http|https<br>
+                                etc, dotenv, bulid, git.
+                            </td>
+                        </tr>
+                        <tr><td colspan="2"></td></tr>
+                        <tr>
+                            <th align="left">Middle Full-Stack Developer</th>
+                            <th align="right">Apr 2022 - Sep 2022</th>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Malyas / Tsibli, Ukraine</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Developing web app with ArcGIS technology for farmers.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Working with the cadastre API for land administration to manage farmers lands.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Developing control system for watering, sowing and the degree of ripening of crops on<br>
+                                farmers' lands.
+                            </td>
+                        </tr>
+                        <tr><td colspan="2"></td></tr>
+                        <tr>
+                            <th align="left">Middle -> Senior Full-Stack | WEB Developer</th>
+                            <th align="right">Sep 2022 - Oct 2023</th>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Freelance work / Remote</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Developing websites, telegram bots, software, applications and other IT products<br>
+                                on order.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Upgrading knowleges in React, Angular, Vue, Node, Nest, MySQL DBMS, PostgreSQL<br>
+                                DBMS, SQLite library, MongoDB and others.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Working with MERN, SERN stacks technologies.
+                            </td>
+                        </tr>
+                        <tr><td colspan="2"></td></tr>
+                        <tr>
+                            <th align="left">Senior Full-Stack | WEB Developer</th>
+                            <th align="right">Oct 2023 - Jan 2024</th>
+                        </tr>
+                        <tr>
+                            <td colspan="2">OVBK Media / Kyiv, Ukraine</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Control of the technical part of product development.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Management of technical qualiﬁcations of staff.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Technical support of the product development process.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                :point_right: Quality control of technical tasks.
                             </td>
                         </tr>
                     </table>
+                </div>
+                <br>
+                <div>
+                    <h2 id="education">:mortar_board: Education</h2>
+                    <table>
+                        <tr>
+                            <td>
+                                <div>Sep 2020 - May 2024</div>
+                                <hr>
+                                <div>Bachelor's Degree - NTU "KHPI"<br>Kharkiv, Ukraine</div>
+                            </td>
+                            <td>
+                                <div>Sep 2019 - May 2020</div>
+                                <hr>
+                                <div>B2 level - Yellow English Submarine<br>Kharkiv, Ukraine</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <div>Sep 2021 - May 2023</div>
+                                <hr>
+                                <div>Bachelor's Degree - Innovation Campus based on NTU "KHPI"<br>Kharkiv, Ukraine</div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <br>
+                <div>
+                    <h2>:wrench: Skills</h2>
+                    <div>
+                        <p>:heavy_check_mark: JavaScript | React, Angular, Vue, Node.js, Nest.js, Express, Mongoose, Socket.IO, Vue.js, Next.js, React Native etc.</p>
+                        <p>:heavy_check_mark: Store | Redux, Redux-Saga, Persistence</p>
+                        <p>:heavy_check_mark: Layouts | CSS3, HTML5, SCSS</p>
+                        <p>:heavy_check_mark: UI | Material UI, Bootstrap, Tailwind</p>
+                        <p>:heavy_check_mark: Git | Git, GitHub </p>
+                        <p>:heavy_check_mark: Database | MySQL, PostgreSQL, MongoDB, SQL, MSSQL, Azure Data Storage</p>
+                        <p>:heavy_check_mark: Other | API, Python, C/C++, WEB Development</p>
+                    </div>
                 </div>
             </td>
         </tr>
