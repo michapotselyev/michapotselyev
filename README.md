@@ -34,12 +34,43 @@ I build products people love and businesses rely on.
 
 ### 🛠️ What I Care About
 
-| 💻 Clean Code | 🎯 Problem Solver |
-|:---:|:---:|:---:|:---:|
-| Writing code that is easy to understand and maintain | Turning complex problems into simple solutions |
-|:---:|:---:|:---:|:---:|
-| 📈 Growth Mindset | 🌍 Open Source |
-| Always learning, experimenting and improving | Building and sharing useful things |
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Clean Code
+
+Writing code that is easy to understand and maintain.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎯 Problem Solver
+
+Turning complex problems into simple solutions.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 📈 Growth Mindset
+
+Always learning, experimenting and improving.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌍 Open Source
+
+Building and sharing useful things.
+
+</td>
+</tr>
+</table>
 
 <br>
 
