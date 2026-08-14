@@ -34,9 +34,12 @@ I build products people love and businesses rely on.
 
 ### 🛠️ What I Care About
 
-| 💻 Clean Code | 🎯 Problem Solver | 📈 Growth Mindset | 🌍 Open Source |
+| 💻 Clean Code | 🎯 Problem Solver |
 |:---:|:---:|:---:|:---:|
-| Writing code that is easy to understand and maintain | Turning complex problems into simple solutions | Always learning, experimenting and improving | Building and sharing useful things |
+| Writing code that is easy to understand and maintain | Turning complex problems into simple solutions |
+|:---:|:---:|:---:|:---:|
+| 📈 Growth Mindset | 🌍 Open Source |
+| Always learning, experimenting and improving | Building and sharing useful things |
 
 <br>
 
@@ -66,7 +69,7 @@ and exploring what can be built with modern technologies and AI.
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/mykhailo-potseluiev">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
